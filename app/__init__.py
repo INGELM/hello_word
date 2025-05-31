@@ -6,6 +6,6 @@ def create_app():
 
     @app.route('/')
     def hello():
-        return "PRUEBA CAMBIO EN LINEA"
+        return "PRUEBA PUSH"
 
     return app
